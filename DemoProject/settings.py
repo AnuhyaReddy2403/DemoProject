@@ -83,10 +83,10 @@ DATABASES = {
     #}
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': 'kamalbasha9581.mysql.pythonanywhere-services.com',
+        'HOST': 'AnuhyaReddy2403.mysql.pythonanywhere-services.com',
         'PORT': '',		#3306 or 3308
-        'NAME': 'kamalbasha9581$default',	#make-sure this DB is in MySQL8-DB
-        'USER': 'kamalbasha9581',
+        'NAME': 'AnuhyaReddy2403$default',	#make-sure this DB is in MySQL8-DB
+        'USER': 'AnuhyaReddy2403',
         'PASSWORD': 'root@123',
     }
 }
